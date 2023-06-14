@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "epHQ8UgTmhaZoeR8Rz/ZqCLjGwrG9YE07/cfxp/2eD9vL2ncxK0ei4L1u9p1JzFCHPXlldEVLEp7DkHQ0Gex0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leona\\source\\repos\\medical-appointments\\medical-appointments\\medical-appointments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
